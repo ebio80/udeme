@@ -1,0 +1,6 @@
+my_region     = "us-east-1"
+profile       = "default"
+topic_uyai    = "sns-dev"
+end_point     = "abc123@gmail.com"
+protocol_type = "email"
+team          = "DevOps"
