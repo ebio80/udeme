@@ -1,5 +1,4 @@
-name: CI Test
-
+name: kv-deployment
 on:
   workflow_dispatch:
 
