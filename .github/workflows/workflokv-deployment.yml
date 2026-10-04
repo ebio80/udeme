@@ -1,4 +1,4 @@
-name: CI Test
+name: kv_deployment
 
 on:
   push:
