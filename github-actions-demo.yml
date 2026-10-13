@@ -16,3 +16,6 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+      - run: echo " This job is $ {{ job.status }}.
+      - name: Verify pull request testing
+      - run: echo "Testing Github Actions from a feature branch"
